@@ -1,2 +1,2 @@
 # Badges
-Consiguiendo badges
+Consiguiendo badges poco a poco
