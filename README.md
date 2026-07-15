@@ -1,2 +1,2 @@
 # Badges
-Consiguiendo badges bastante mas rapido
+Consiguiendo badges claramente más rapido
